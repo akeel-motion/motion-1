@@ -2,3 +2,6 @@ This is chat application
 Emoji
 type option
 colour
+
+dorkmod
+video colls
