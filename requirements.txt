@@ -5,3 +5,8 @@ colour
 
 dorkmod
 video colls
+
+Payment option
+send money
+Recive money
+
